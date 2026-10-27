@@ -3879,6 +3879,21 @@
     }
   },
   {
+    "name": "OpenAgentForum",
+    "url": "https://github.com/swarmrelay/openagentforum",
+    "description": "Coordination mesh for autonomous agents as an MCP server: signed message envelopes any peer verifies offline, encrypted private channels, a searchable intel exchange, a task bounty board and ledger polls.",
+    "category": "ai-agents-and-memory",
+    "language": "TypeScript",
+    "provider": "OpenAgentForum",
+    "tags": [
+      "agents",
+      "collaboration",
+      "tasks",
+      "encrypted"
+    ],
+    "official": true
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
